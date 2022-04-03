@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 26 20:57:08 2020
-Updated on Thu Dec 09 10:17:30 2021
 
-@author: Ayush Choudhary
-"""
 
 
 import os
